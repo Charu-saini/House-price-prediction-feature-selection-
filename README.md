@@ -9,12 +9,12 @@ This project applies Machine Learning and Statistical Analysis to predict house 
 * Feature selection techniques including Mutual Information Classifier.
   
 * Statistical tests for feature significance:
- > Correlation analysis
- > Cramer’s V (categorical association)
- > ANOVA test (feature importance)
- >Levene’s test (variance homogeneity)
- > Linear Regression model .
- > Evaluation using metrics such as R², MAE, and RMSE.
+  * Correlation analysis
+  * Cramer’s V (categorical association)
+  * ANOVA test (feature importance)
+  * Levene’s test (variance homogeneity)
+  * Linear Regression model .
+  * Evaluation using metrics such as R², MAE, and RMSE.
 
 📂 Project Structure
 
